@@ -19,6 +19,9 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
+      - name: Build
+        run: yarn build
+
       - name: Semantic Release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
