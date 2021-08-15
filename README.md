@@ -75,5 +75,5 @@ or if `manager = "npm"`
 
 ```shell
 $ npm run swagger-docs
-$ npm test
+$ npm run test
 ```
