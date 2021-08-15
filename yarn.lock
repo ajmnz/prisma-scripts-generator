@@ -580,7 +580,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^16.6.1":
+"@types/node@npm:*, @types/node@npm:16.6.1":
   version: 16.6.1
   resolution: "@types/node@npm:16.6.1"
   checksum: c13aa0da0c2bf9070e521d1b537ba38f64b213dd1b8aeec66c279fc21f8c0ccaf380364f6dc2ec8f84440c4cd1460b67dfe47de2cafcb6eaf4b648817cb27dc4
@@ -1757,7 +1757,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^7.32.0":
+"eslint@npm:7.32.0":
   version: 7.32.0
   resolution: "eslint@npm:7.32.0"
   dependencies:
@@ -4068,14 +4068,14 @@ __metadata:
   resolution: "prisma-scripts-generator@workspace:."
   dependencies:
     "@prisma/generator-helper": ^2.29.1
-    "@types/node": ^16.6.1
+    "@types/node": 16.6.1
     "@typescript-eslint/eslint-plugin": ^4.29.1
     "@typescript-eslint/parser": ^4.29.1
-    eslint: ^7.32.0
+    eslint: 7.32.0
     prisma: 2.29.1
-    rimraf: ^3.0.2
+    rimraf: 3.0.2
     semantic-release: ^17.4.4
-    typescript: ^4.3.5
+    typescript: 4.3.5
   languageName: unknown
   linkType: soft
 
@@ -4458,7 +4458,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
+"rimraf@npm:3.0.2, rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
   version: 3.0.2
   resolution: "rimraf@npm:3.0.2"
   dependencies:
@@ -5176,7 +5176,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-typescript@^4.3.5:
+typescript@4.3.5:
   version: 4.3.5
   resolution: "typescript@npm:4.3.5"
   bin:
@@ -5186,7 +5186,7 @@ typescript@^4.3.5:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.3.5#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.3.5#~builtin<compat/typescript>":
   version: 4.3.5
   resolution: "typescript@patch:typescript@npm%3A4.3.5#~builtin<compat/typescript>::version=4.3.5&hash=d8b4e7"
   bin:
