@@ -608,7 +608,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^4.29.1":
+"@typescript-eslint/eslint-plugin@npm:4.29.1":
   version: 4.29.1
   resolution: "@typescript-eslint/eslint-plugin@npm:4.29.1"
   dependencies:
@@ -645,7 +645,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^4.29.1":
+"@typescript-eslint/parser@npm:4.29.1":
   version: 4.29.1
   resolution: "@typescript-eslint/parser@npm:4.29.1"
   dependencies:
@@ -4069,8 +4069,8 @@ __metadata:
   dependencies:
     "@prisma/generator-helper": ^2.29.1
     "@types/node": 16.6.1
-    "@typescript-eslint/eslint-plugin": ^4.29.1
-    "@typescript-eslint/parser": ^4.29.1
+    "@typescript-eslint/eslint-plugin": 4.29.1
+    "@typescript-eslint/parser": 4.29.1
     eslint: 7.32.0
     prisma: 2.29.1
     rimraf: 3.0.2
