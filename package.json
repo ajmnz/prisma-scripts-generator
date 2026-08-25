@@ -49,6 +49,6 @@
     "typescript": "4.3.5"
   },
   "dependencies": {
-    "@prisma/generator-helper": "^2.29.1"
+    "@prisma/generator-helper": "^7.0.0"
   }
 }
